@@ -1,0 +1,11 @@
+Id,Titre,Description,Service,Date
+1,Panne machine,La machine est tombée en panne,Production,2023-05-01
+2,Coupure courant,Coupure dans tout le bâtiment,Maintenance,2023-06-15
+3,Accident ouvrier,Blessure mineure,Production,2024-01-10
+4,Erreur de stock,Erreur dans le stock final,Logistique,2024-02-20
+5,Défaut qualité,Produit non conforme,Qualité,2023-12-05
+6,Courrier perdu,Lettre introuvable,Logistique,2022-08-12
+7,Chute boîte,Accident dans le dépôt,Production,2022-11-23
+8,Panne système,Crash informatique,IT,2023-03-18
+9,Erreur planning,Planning incorrect,Production,2023-07-29
+10,Manque de pièces,Composant manquant,Maintenance,2024-03-03
